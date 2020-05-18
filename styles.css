@@ -1,0 +1,132 @@
+.top{
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+    padding-top: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+.fontchange{
+    font-family: 'DM Mono', monospace;
+    color: grey;
+}
+.container1{
+    text-align: left;
+    position: relative;
+    right: 450px;
+    top: 230px;
+    font-family: 'Poppins', sans-serif;
+
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    padding: 30px;
+    
+}
+
+.container2{
+    text-align: left;
+    position: relative;
+    bottom: 200px;
+    
+    font-family: 'Poppins', sans-serif;
+
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    padding: 40px;
+    
+}
+
+.container3{
+    text-align: left;
+    position: relative;
+    bottom: 200px;
+    font-family: 'Poppins', sans-serif;
+
+    height: 200px;
+    width: 300px;;
+    margin: auto;
+    padding: 40px;
+    
+}
+
+.container4{
+    text-align: left;
+    position: relative;
+    left: 430px;
+    bottom: 660px;
+    font-family: 'Poppins', sans-serif;
+
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    padding: 40px;
+    
+}
+
+.attribution{
+    text-align: center;
+    position: relative;
+    bottom: 400px;
+
+}
+
+.container1image{
+
+    position: absolute;
+    right: 0px;
+    bottom: 10px;
+}
+
+.container2image{
+    position: absolute;
+    right: 0px;
+    bottom: 10px;
+
+}
+
+.container3image{
+    position: absolute;
+    right: 0px;
+    bottom: 10px;
+
+}
+
+.container4image{
+    position: absolute;
+    right: 0px;
+    bottom: 10px;
+}
+
+.line1{
+    position: relative;
+    top: 95px;
+    height: 5px;
+    background-color: hsl(0, 78%, 62%);
+}
+.line2{
+    position: relative;
+    bottom: 160px;
+
+    height: 5px;
+    background-color: hsl(34, 97%, 64%);
+}
+
+.line3{
+    background-color: hsl(212, 86%, 64%);
+    height: 5px;
+    position: relative;
+    bottom: 610px;
+    left: 430px;
+
+}
+
+.line4{
+    position: relative;
+    bottom: 620px;
+    right: 450px;
+    background-color: hsl(180, 62%, 55%);
+    height: 5px;
+
+}
+
